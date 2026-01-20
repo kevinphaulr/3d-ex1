@@ -1,0 +1,23 @@
+# 3D Printing Shop Event Website
+
+A simple and responsive event website created using **HTML** and **CSS** for a 3D Printing Shop Event.
+
+## Features
+
+* Event banner image
+* Promotional video and intro audio
+* Event registration form
+* Responsive and clean design
+
+## Technologies Used
+
+* HTML5
+* CSS3
+
+## How to Run
+
+Open `index.html` in any web browser.
+
+## Purpose
+
+This project is created for learning and demonstration of basic front-end web development.
